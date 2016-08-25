@@ -1,2 +1,3 @@
 # hello-world
-First Repository
+
+First handson on github. You rock!
